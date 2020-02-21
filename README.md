@@ -13,3 +13,5 @@ Attempts at:
 - Policy Evaluation
 - Vanilla REINFORCE Algorithm
 - Vanilla Actor Critic Algorithm
+
+Credits: David Silver Youtube Video, PangYo Lab Youtube, dnddnjs "Fundamental Reinforcement Learning"
