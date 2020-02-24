@@ -2,18 +2,21 @@
 
 Concepts on the following algorithms:
 
-- Deterministic Policy Gradient
-- Stochastic Policy Gradient
-- Deep Q-network
-- Deep Deterministic Policy Gradient
-- Batch Normalization
+- Deterministic Policy Gradient (DPG)
+- Stochastic Policy Gradient (SPG)
+- Deep Q-network (DQN)
+- Deep Deterministic Policy Gradient (DDPG)
+- Batch Normalization (BN)
+- Guided Policy Search (GPS)
+- Trust Region Policy Optimization (TRPO)
+- Proximal Policy Optimization (PPO)
 
 Attempts at:
 
 - Policy Evaluation
-- Vanilla REINFORCE Algorithm
-- Vanilla Actor Critic Algorithm
-- Vanilla DQN
+- REINFORCE Algorithm
+- Actor Critic Algorithm
+- DQN
 
 
 Credits: David Silver Youtube Video, PangYo Lab Youtube, dnddnjs "Fundamental Reinforcement Learning"
