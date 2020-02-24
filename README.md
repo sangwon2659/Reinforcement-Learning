@@ -8,6 +8,7 @@ Concepts on the following algorithms:
 - Deep Deterministic Policy Gradient (DDPG)
 - Batch Normalization (BN)
 - Guided Policy Search (GPS)
+- Natural Gradient (NG)
 - Trust Region Policy Optimization (TRPO)
 - Proximal Policy Optimization (PPO)
 
